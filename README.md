@@ -27,4 +27,24 @@ Este projeto tem como objetivo apresentar um **Dashboard de Produção** para an
    ```bash
    git clone https://github.com/rofnas/RH.git
 
+2. Abra o arquivo Dashboard RH.pbix no Power BI Desktop.
+
+📈 Funcionalidades do Dashboard
+Análise de colaboradores por área, função e tempo de casa.
+
+Indicadores de desempenho, absenteísmo e rotatividade.
+
+Visualizações intuitivas com filtros dinâmicos.
+
+🛠 Tecnologias Utilizadas
+Power BI Desktop
+
+Microsoft Excel (como base de dados)
+
+GitHub (versionamento e compartilhamento)
+
+📝 Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+
 
