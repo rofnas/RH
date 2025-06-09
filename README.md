@@ -4,30 +4,27 @@
 https://img.shields.io/static/v1?label=<PowerBI>&message=<rofnas>&color=<7159c1>&style=<for-the-badge>&logo=<GHOST>
 
 
-Em construção 
-<h1 align="center">Estudo de Caso - Dashboard RH</h1>
+# 📊 Dashboard RH
 
-<p align="center">Este é um dashboard criado para treino de utilização da ferramenta</p>
+Repositório destinado ao desenvolvimento de um **Dashboard de Recursos Humanos** utilizando **Power BI**.
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
+## 📌 Sobre o Projeto
 
-<h4 align="center"> 
-	🚧  RH - Dashboard 🚀 Em construção...  🚧
-</h4>
+Este projeto tem como objetivo apresentar um **Dashboard de Produção** para análise de dados de Recursos Humanos. Foi desenvolvido no Power BI com dados simulados para fins de demonstração.
 
-<h1 align="center">Demonstração RH</h1>
+## 📁 Estrutura do Repositório
 
-<h1 align="center">Pré-requisitos e como rodar</h1>
+- `Background/`: Imagens e elementos gráficos utilizados no dashboard.
+- `BaseDados/`: Conjunto de dados utilizados como base para as análises.
+- `Dashboard RH.pbix`: Arquivo principal do Power BI com o desenvolvimento do dashboard.
+- `.gitignore`: Arquivos ignorados no versionamento.
+- `LICENSE`: Licença do projeto (MIT).
+- `README.md`: Arquivo de documentação.
 
-<h1 align="center">Tecnologias Utilizadas</h1>
+## 🚀 Como Executar
 
-<h1 align="center">Autoria</h1>
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/rofnas/RH.git
 
-<h1 align="center">Licença</h1>
 
